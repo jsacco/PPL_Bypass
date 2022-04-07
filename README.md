@@ -1,4 +1,4 @@
-# PPL_Bypass
+# PPL_Bypass - Proof of concept ( Tested on Windows 10 )
  How to run: \WritePPLMem.exe -d -v -f MsMpEng.exe 1
 
 Credits:
